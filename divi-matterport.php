@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Divi Matterport
-Plugin URI:  https://jamesbishop.ca/
+Plugin URI:  https://github.com/jamesbishopca/divi-matterport
 Description: A module for adding Matterport embeds into Divi websites.
 Version:     1.0.0
 Author:      James Bishop
