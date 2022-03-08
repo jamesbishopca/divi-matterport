@@ -1,3 +1,3 @@
-import HelloWorld from './HelloWorld/HelloWorld';
+import DiviMatterportModule from './DiviMatterportModule/DiviMatterportModule';
 
-export default [HelloWorld];
+export default [DiviMatterportModule];

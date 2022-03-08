@@ -1,0 +1,19 @@
+.dima_divi_matterport iframe {
+    min-height: 480px;
+    margin: 16px 0;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+.dima_divi_matterport iframe {
+    min-height: 600px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .dima_divi_matterport iframe {
+    height: 600px;
+    max-width: 1068px;
+    margin: 0 auto 15px;
+  }
+}  
